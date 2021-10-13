@@ -1,0 +1,50 @@
+
+.up-down{
+  background-color: #23374D;
+  color:#E5E5E5;
+}
+
+.hr-nav{
+  color:#E5E5E5;
+}
+
+.div-fav{
+  margin: 10px 5em;
+}
+
+.title1{
+  color:#23374D;
+}
+
+.title2{
+  color:#E5E5E5;
+}
+
+.panel1{
+  background-color: #EEEEEE;
+  padding: 20px 10em 30px;
+}
+
+.panel2{
+  background-color: #1089FF;
+  padding: 20px 10% 30px;
+}
+
+.img{
+  width: 25em;
+}
+
+.panel1 p {
+  color: #1089FF;
+}
+
+.panel2 p {
+  color: #EEEEEE;
+}
+
+.container.up-down{
+  padding: 0 40px 30px;
+}
+.social-link{
+  color: #23374D;
+}
