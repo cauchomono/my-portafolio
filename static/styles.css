@@ -22,12 +22,12 @@
 
 .panel1{
   background-color: #EEEEEE;
-  padding: 20px 10em 30px;
+  padding: 30px 10% 50px;
 }
 
 .panel2{
   background-color: #1089FF;
-  padding: 20px 10% 30px;
+  padding: 30px 10% 40px;
 }
 
 .img{
@@ -36,10 +36,12 @@
 
 .panel1 p {
   color: #1089FF;
+  line-height: 25px;
 }
 
 .panel2 p {
   color: #EEEEEE;
+  line-height: 25px;
 }
 
 .container.up-down{
